@@ -11,7 +11,7 @@ This is the link to the meetup:
 
 ## Grubbins 
 
-<iframe src="https://maps.app.goo.gl/maMypFMs9xLM5zm66"></iframe>
+<iframe src="https://maps.app.goo.gl/maMypFMs9xLM5zm66" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Philly Nerd Calendar 
 
