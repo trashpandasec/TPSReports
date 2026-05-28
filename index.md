@@ -9,7 +9,9 @@ We're a Solar Punk event space focusing on community through education and games
 ## Partners 
 
 Ex Machina Parlour 
-Saika Cafe 
+
+Saika Cafe
+
 Mapache Salvage 
 
 ## Swag 
